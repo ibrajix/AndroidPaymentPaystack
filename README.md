@@ -9,3 +9,6 @@ Implementing In App Payment On Android Using PayStack's SDK
 - MVVM Pattern
 - Live Data 
 - Coroutines
+
+Check my article on implementation
+https://medium.com/swlh/how-to-implement-secure-payment-on-android-using-paystack-c0c93fa49a33
